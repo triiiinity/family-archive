@@ -1,0 +1,8 @@
+person_id,name,known_as,born,died,side,relation,notes
+mema,,Mema,,,sloan,Grandmother (Mom's mother),Sample row: add full name and years
+poppy,,Poppy,,,sloan,Grandfather (Mom's father),Sample row: add full name and years
+mom,,Mom,,,sloan,Mother,Sample row
+dad,,Dad,,,lester,Father,Sample row
+trinity,Trinity Lester,Trinity,,,lester,Me,Sample row
+example-cousin,,Example Cousin,,,sloan,Cousin,"Sample person, delete when real data arrives"
+example-relative,,Example Relative,,,lester,Relative on Dad's side,"Sample person, delete when real data arrives"

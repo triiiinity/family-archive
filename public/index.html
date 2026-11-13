@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Family Archive</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site">
+    <a class="brand" href="#"><span class="w-family">Family</span> <span class="w-archive">Archive</span></a>
+  </header>
+
+  <main id="app" aria-live="polite"></main>
+
+  <div class="lightbox" id="lightbox" hidden>
+    <button class="lb-close" id="lb-close" aria-label="Close">×</button>
+    <button class="lb-arrow lb-prev" id="lb-prev" aria-label="Previous photo">‹</button>
+    <div class="lb-stage" id="lb-stage"><img id="lb-img" alt=""></div>
+    <button class="lb-arrow lb-next" id="lb-next" aria-label="Next photo">›</button>
+    <aside class="lb-panel" id="lb-panel"></aside>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+id,file,original_file_name,original_position,collection,date,date_sort,people,place,event,description,back_of_photo,info_source,tags,private,notes
+SLO-MMF-0001,,IMG_4400.jpg,1,SLO-MMF,circa 1950s,1955,mema,,,Sample photo. A sentence or two about what's happening goes here.,,Sample data,,No,SAMPLE ROW
+SLO-MMF-0002,,IMG_4401.jpg,2,SLO-MMF,1962,1962,mema; poppy,,wedding anniversary,Sample photo. A sentence or two about what's happening goes here.,"Written on back, sample",Sample data,wedding anniversary,No,SAMPLE ROW
+SLO-MMF-0003,,IMG_4402.jpg,3,SLO-MMF,circa 1960s,1965,mema; mom,Mema's house,baby,Sample photo. A sentence or two about what's happening goes here.,,Sample data,baby,No,SAMPLE ROW
+SLO-MMF-0004,,IMG_4403.jpg,4,SLO-MMF,1971,1971,mema; mom; example-cousin,,Easter,Sample photo. A sentence or two about what's happening goes here.,,Sample data,Easter; holiday,No,SAMPLE ROW
+SLO-MMF-0005,,IMG_4404.jpg,5,SLO-MMF,circa 1970s,1975,mema,,vacation,Sample photo. A sentence or two about what's happening goes here.,,Sample data,vacation; beach,No,SAMPLE ROW
+SLO-MMF-0006,,IMG_4405.jpg,6,SLO-MMF,1983,1983,mema; poppy; mom,,birthday,Sample photo. A sentence or two about what's happening goes here.,,Sample data,birthday,No,SAMPLE ROW
+SLO-MMF-0007,,IMG_4406.jpg,7,SLO-MMF,circa 1990s,1995,mema; trinity,Mema's house,holiday,Sample photo. A sentence or two about what's happening goes here.,,Sample data,holiday,No,SAMPLE ROW
+SLO-MMF-0008,,IMG_4407.jpg,8,SLO-MMF,unknown,,mema,,,Sample photo. A sentence or two about what's happening goes here.,,Sample data,,No,SAMPLE ROW
+SLO-GPF-0001,,IMG_4408.jpg,1,SLO-GPF,circa 1940s,1945,poppy,,,Sample photo. A sentence or two about what's happening goes here.,,Sample data,,No,SAMPLE ROW
+SLO-GPF-0002,,IMG_4409.jpg,2,SLO-GPF,1958,1958,poppy; mema,,wedding,Sample photo. A sentence or two about what's happening goes here.,,Sample data,wedding,No,SAMPLE ROW
+SLO-GPF-0003,,IMG_4410.jpg,3,SLO-GPF,circa 1960s,1964,poppy; mom,,baby,Sample photo. A sentence or two about what's happening goes here.,,Sample data,baby,No,SAMPLE ROW
+SLO-GPF-0004,,IMG_4411.jpg,4,SLO-GPF,1969,1969,poppy,,vacation,Sample photo. A sentence or two about what's happening goes here.,,Sample data,vacation,No,SAMPLE ROW
+SLO-GPF-0005,,IMG_4412.jpg,5,SLO-GPF,circa 1970s,1976,poppy; example-cousin,,birthday,Sample photo. A sentence or two about what's happening goes here.,,Sample data,birthday,No,SAMPLE ROW
+SLO-GPF-0006,,IMG_4413.jpg,6,SLO-GPF,1988,1988,poppy; mom; dad,,wedding,Sample photo. A sentence or two about what's happening goes here.,,Sample data,wedding,No,SAMPLE ROW
+SLO-GPF-0007,,IMG_4414.jpg,7,SLO-GPF,circa 1990s,1997,poppy; trinity,,holiday,Sample photo. A sentence or two about what's happening goes here.,,Sample data,holiday,No,SAMPLE ROW
+SLO-GPF-0008,,IMG_4415.jpg,8,SLO-GPF,2001,2001,poppy; mema,,,Sample photo. A sentence or two about what's happening goes here.,,Sample data,,No,SAMPLE ROW
+LES-GEN-0001,,IMG_4416.jpg,1,LES-GEN,circa 1950s,1952,example-relative,,,Sample photo. A sentence or two about what's happening goes here.,,Sample data,,No,SAMPLE ROW
+LES-GEN-0002,,IMG_4417.jpg,2,LES-GEN,circa 1960s,1963,dad; example-relative,,baby,Sample photo. A sentence or two about what's happening goes here.,,Sample data,baby,No,SAMPLE ROW
+LES-GEN-0003,,IMG_4418.jpg,3,LES-GEN,1968,1968,dad,,birthday,Sample photo. A sentence or two about what's happening goes here.,,Sample data,birthday,No,SAMPLE ROW
+LES-GEN-0004,,IMG_4419.jpg,4,LES-GEN,circa 1970s,1974,dad,,school,Sample photo. A sentence or two about what's happening goes here.,,Sample data,school,No,SAMPLE ROW
+LES-GEN-0005,,IMG_4420.jpg,5,LES-GEN,1979,1979,dad; example-relative,,vacation,Sample photo. A sentence or two about what's happening goes here.,,Sample data,vacation,No,SAMPLE ROW
+LES-GEN-0006,,IMG_4421.jpg,6,LES-GEN,1986,1986,dad,,graduation,Sample photo. A sentence or two about what's happening goes here.,,Sample data,graduation,No,SAMPLE ROW
+LES-FAM-0001,,IMG_4422.jpg,1,LES-FAM,1990s,1993,mom; dad,,,Sample photo. A sentence or two about what's happening goes here.,,Sample data,,No,SAMPLE ROW
+LES-FAM-0002,,IMG_4423.jpg,2,LES-FAM,circa 1995,1995,mom; trinity,,baby,Sample photo. A sentence or two about what's happening goes here.,,Sample data,baby,No,SAMPLE ROW
+LES-FAM-0003,,IMG_4424.jpg,3,LES-FAM,1996,1996,dad; trinity,,birthday,Sample photo. A sentence or two about what's happening goes here.,,Sample data,birthday,No,SAMPLE ROW
+LES-FAM-0004,,IMG_4425.jpg,4,LES-FAM,1998,1998,mom; dad; trinity,,vacation,Sample photo. A sentence or two about what's happening goes here.,,Sample data,vacation; beach,No,SAMPLE ROW
+LES-FAM-0005,,IMG_4426.jpg,5,LES-FAM,circa 2000,2000,trinity,,school,Sample photo. A sentence or two about what's happening goes here.,,Sample data,school,No,SAMPLE ROW
+LES-FAM-0006,,IMG_4427.jpg,6,LES-FAM,2003,2003,mom; dad; trinity,,holiday,Sample photo. A sentence or two about what's happening goes here.,,Sample data,holiday,No,SAMPLE ROW
+LES-FAM-0007,,IMG_4428.jpg,7,LES-FAM,2005,2005,trinity; example-cousin,,,Sample photo. A sentence or two about what's happening goes here.,,Sample data,,No,SAMPLE ROW
+SLO-MMF-0009,,IMG_4999.jpg,9,SLO-MMF,unknown,,mema,,,Sample private photo: hidden from the site.,,Sample data,,Yes,SAMPLE ROW: private example
